@@ -1,7 +1,6 @@
 # GOOGLE BOOKS SEARCH APP
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
-![GitHub license](https://img.shields.io/badge/Made%20by-%40aafernands-orange)
 
 Deployed Aplication:
 [GOOGLE BOOKS SEARCH](https://intense-harbor-58242.herokuapp.com/)
@@ -34,11 +33,6 @@ $ npm start
 
 <br>
 
-## Usage
-
-<br>
-
-![demo](./client/src/assets/images/demo/demo.gif)
 
 ## Tests
 
